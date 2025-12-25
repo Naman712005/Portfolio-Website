@@ -1,0 +1,1 @@
+Designed and developed a modern, animated personal portfolio using React.js, Tailwind CSS, and GSAP. Showcases projects, skills, and academic journey with smooth scroll-based animations and a responsive, dark-themed UI.
